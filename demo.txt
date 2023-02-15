@@ -1,2 +1,3 @@
 this is a git hub learning session
 this is 2nd session on github
+adding 3rd line to check github
